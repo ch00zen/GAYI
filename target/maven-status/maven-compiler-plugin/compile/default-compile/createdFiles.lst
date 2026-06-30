@@ -1,0 +1,5 @@
+com\gestion\utilisateurs\model\User.class
+com\gestion\utilisateurs\db\DatabaseConnection.class
+com\gestion\utilisateurs\service\UserService.class
+com\gestion\utilisateurs\dao\UserDao.class
+com\gestion\utilisateurs\Main.class
